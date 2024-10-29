@@ -28,13 +28,13 @@ Blogify is a full-stack blogging application that provides users with a secure, 
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/login-page.png)
+![login-page](https://github.com/user-attachments/assets/4ec8955e-f8e7-4fae-bd76-7f8c22aed0e2)
 
 ### Blog List View
-![Blog List View](screenshots/blog-list.png)
+![blog-list](https://github.com/user-attachments/assets/336a1495-b66d-4003-bde6-6d0dfc752ba0)
 
 ### Post Creation Page
-![Post Creation Page](screenshots/post-creation.png)
+![post-creation](https://github.com/user-attachments/assets/611cba56-6ecb-4587-b660-5eb7f78da2d8)
 
 ### API Documentation
 ![API Documentation](screenshots/api-docs.png)
@@ -51,5 +51,9 @@ Blogify is a full-stack blogging application that provides users with a secure, 
 
 1. **Clone the repository**:
    ```bash
+
    git clone https://github.com/yourusername/blogify.git
-   cd blogify
+   cd blogify![login-page](https://github.com/user-attachments/assets/507e0bbe-cbee-4799-bd94-ea44ab878f11)
+
+
+
