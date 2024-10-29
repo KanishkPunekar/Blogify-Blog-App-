@@ -5,6 +5,7 @@ Blogify is a full-stack blogging application that provides users with a secure, 
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [API Documentation](#api-documentation)
@@ -23,6 +24,20 @@ Blogify is a full-stack blogging application that provides users with a secure, 
 - **Backend**: Spring Boot, Spring Security (JWT Authentication), Spring Data JPA
 - **Frontend**: React
 - **Other Tools**: Swagger for API documentation, Postman for testing
+
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Blog List View
+![Blog List View](screenshots/blog-list.png)
+
+### Post Creation Page
+![Post Creation Page](screenshots/post-creation.png)
+
+### API Documentation
+![API Documentation](screenshots/api-docs.png)
 
 ## Getting Started
 
