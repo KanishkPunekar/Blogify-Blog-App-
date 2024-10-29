@@ -1,4 +1,4 @@
-Blogify
+**Blogify**
 Blogify is a full-stack blogging application that allows users to create, edit, and view blog posts with an intuitive UI. Built using Spring Boot for the backend and React for the frontend, Blogify integrates JWT authentication for secure access and provides a seamless user experience with dynamic and RESTful APIs.
 
 Key Features
