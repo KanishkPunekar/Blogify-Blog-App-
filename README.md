@@ -37,7 +37,10 @@ Blogify is a full-stack blogging application that provides users with a secure, 
 ![post-creation](https://github.com/user-attachments/assets/611cba56-6ecb-4587-b660-5eb7f78da2d8)
 
 ### API Documentation
-![API Documentation](screenshots/api-docs.png)
+![Screenshot 2024-10-29 090934](https://github.com/user-attachments/assets/9e4b11b9-a190-4ec8-8a05-6489a99e1afa)
+![Screenshot 2024-10-29 090946](https://github.com/user-attachments/assets/6c90e086-b49d-4ccd-a17b-11144ba32d9e)
+![Screenshot 2024-10-29 091001](https://github.com/user-attachments/assets/0adef37c-ecb4-4c7d-a446-35ab35631175)
+
 
 ## Getting Started
 
