@@ -1,19 +1,40 @@
-**Blogify**
-Blogify is a full-stack blogging application that allows users to create, edit, and view blog posts with an intuitive UI. Built using Spring Boot for the backend and React for the frontend, Blogify integrates JWT authentication for secure access and provides a seamless user experience with dynamic and RESTful APIs.
+# Blogify
 
-Key Features
-User Authentication: Secured with JWT-based authentication using Spring Security, ensuring only authorized users can access and modify content.
-CRUD Functionality: Create, read, update, and delete blog posts with structured and scalable RESTful APIs.
-Image Uploads: Supports image uploads alongside posts using MultipartFile and InputStream, allowing for dynamic media display.
-Entity Management: Includes entity-specific payloads and an exception handler to manage general and resource-not-found exceptions gracefully.
-Database Integration: Efficient data management with Spring Data JPA repositories, providing seamless data access and storage.
-API Documentation: Integrated with Swagger for detailed API documentation, making it easier to explore and test the application.
-Technologies Used
-Backend: Spring Boot, Spring Security (JWT Authentication), Spring Data JPA
-Frontend: React
-Other: Swagger, Postman for API testing
-Installation & Setup
-Clone the repository.
-Set up the backend by configuring the application properties.
-Run the Spring Boot application and start the React frontend.
-Access the Swagger documentation at /swagger-ui.html for API details.
+Blogify is a full-stack blogging application that provides users with a secure, intuitive platform to create, view, edit, and delete blog posts. This project is designed with a scalable backend in Spring Boot and a responsive frontend in React, making it ideal for learning about web application architecture and secure data handling.
+
+## Table of Contents
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [API Documentation](#api-documentation)
+- [License](#license)
+
+## Features
+
+- **JWT Authentication**: Blogify utilizes Spring Security with JWT tokens to ensure secure access for registered users.
+- **Complete CRUD Functionality**: Users can create, read, update, and delete blog posts.
+- **Image Uploads**: Allows users to upload images for each post, enhancing the blogging experience.
+- **Exception Handling**: Comprehensive error handling, including general exceptions and resource-not-found exceptions.
+- **API Documentation**: Detailed API documentation provided via Swagger, simplifying exploration and testing.
+
+## Technologies Used
+
+- **Backend**: Spring Boot, Spring Security (JWT Authentication), Spring Data JPA
+- **Frontend**: React
+- **Other Tools**: Swagger for API documentation, Postman for testing
+
+## Getting Started
+
+### Prerequisites
+
+- Java 11 or higher
+- Node.js and npm
+- MySQL or any preferred relational database
+
+### Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/blogify.git
+   cd blogify
